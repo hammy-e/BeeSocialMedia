@@ -1,7 +1,7 @@
 # BeeSocialMedia
 
 About Bee:
-- Bee is a social media app with a beautiful and modern UI that allows users to share a status or photo instantly to all of their followers. Features included are: follow users, unfollow users, like a post, comment to a post, search for all users, see yours and other's post count, followers count, and following count.
+- Bee is a social media app with a beautiful and modern UI that allows users to share a status or photo instantly to all of their followers. Features included are: post a status, post a photo, choose filter for your photo, add caption to photo, follow users, unfollow users, like a post, comment to a post, search for all users, see yours and other's post count, followers count, and following count.
 
 Frameworks Used:
 - Firebase
